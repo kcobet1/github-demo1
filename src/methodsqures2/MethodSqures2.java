@@ -24,7 +24,7 @@ public class MethodSqures2 {
        }
         
     }
-    //method: isValidInt(Scanner sc, String str) return i
+    //method:isValidInt(Scanner sc, String str) return i
     public static int isValidInt(Scanner sc, String str, int min, int max)
     {
         int i = 0;
